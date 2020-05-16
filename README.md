@@ -4,9 +4,9 @@ Welcome to my very first website!
 
 This website was build as a **development milestone project** for the completion of the user centric frontend module and it's part of the learning material for Code Institute's Fullstack Web Developer program.
 
-A live **desktop demo** can be found [here](https://gaspar91.github.io/MyJourney2/).
+A live **desktop demo** can be found [here](https://gaspar91.github.io/MilestoneProject1/).
 
-The **source code** for this project can be found [here](https://github.com/gaspar91/MyJourney2).
+The **source code** for this project can be found [here](https://github.com/gaspar91/MilestoneProject1).
 
 
 # Table of Contents
@@ -35,7 +35,7 @@ There are also many activities, for all ages, that the company provides in order
 
 # Design Process
 
-You'll be able to view the sketches, wireframes, and mockups for this project in the **assets** folder in the  [Github project repository](https://github.com/gaspar91/MyJourney2).
+You'll be able to view the sketches, wireframes, and mockups for this project in the **[assets](https://github.com/gaspar91/MilestoneProject1/tree/master/assets)** folder.
 
 I used **[Balsamiq](https://balsamiq.com/)** to build the wireframes, so you might need the program in order to view the documents.
 
