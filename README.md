@@ -148,13 +148,13 @@ It is also important that there is access to a phone number or email address in 
 
 # Deployment
 
-The website is hosted via [GitHub](https://github.com/), with the source code being available on [my repository](https://github.com/gaspar91/MyJourney2).
+The website is hosted via [GitHub](https://github.com/), with the source code being available on [my repository](https://github.com/gaspar91/MilestoneProject1).
 
 ### How I Did It
 
 - To deploy this project I followed these steps:
 
-    1. Open my [GitHub repository](https://github.com/gaspar91/MyJourney2) project page.
+    1. Open my [GitHub repository](https://github.com/gaspar91/MilestoneProject1) project page.
 
     2. Go to **Settings** at the top right of the page.
 
@@ -167,7 +167,7 @@ The website is hosted via [GitHub](https://github.com/), with the source code be
 ### How You Can Access It
 - In order to run this project locally you should follow these steps:
 
-    1. Click the green *'clone or download'* button in the [GitHub repository](https://github.com/gaspar91/MyJourney2) for the project.
+    1. Click the green *'clone or download'* button in the [GitHub repository](https://github.com/gaspar91/MilestoneProject1) for the project.
 
     2. Copy the link provided by clicking the **clipboard button** to the right of the link.
 
@@ -179,7 +179,7 @@ The website is hosted via [GitHub](https://github.com/), with the source code be
 
     1. Make sure that you are logged in to your [GitHub account](https://github.com/).
 
-    2. In the [project repository](https://github.com/gaspar91/MyJourney2), click the small green button reading **gitpod** which is placed next to the **clone or download** button.
+    2. In the [project repository](https://github.com/gaspar91/MilestoneProject1), click the small green button reading **gitpod** which is placed next to the **clone or download** button.
 
 # Credits
 
